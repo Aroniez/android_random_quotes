@@ -2,5 +2,6 @@
 
     <string name="app_name">Quotes</string>
     <string name="placeholder_message_quote">a penny saved is a penny earned</string>
+    <string name="next_fortune_quote">Next Fortune Quote</string>
 
 </resources>

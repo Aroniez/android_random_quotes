@@ -70,7 +70,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/quoteLayout"
         android:layout_centerHorizontal="true"
-        android:text="Next Fortune Quote"
+        android:text="@string/next_fortune_quote"
         android:textColor="@color/primary_dark" />
 
 </RelativeLayout>
